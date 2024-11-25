@@ -12,7 +12,7 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 - Heather Whitney, PhD
 - Robert Tomek, MSc
 - Paul E Kinahan, PhD
-## Sub-topics
+## Outline
 - Intro to Contributing Data and Annotations | DLL09B
   - [Presentation](link)
 - Contributing Data and Annotations | DLL09C
