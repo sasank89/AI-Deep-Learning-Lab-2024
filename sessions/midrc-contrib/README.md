@@ -29,6 +29,6 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 
 ### 3. Diversity Calculator (Whitney & Tomek)| DLL09D & DLL09E
 
-[Colab Notebook](https://colab.research.google.com/drive/1vRPfbD0MPj-U-kz3nZhCL3wcdFaUOjON?usp=sharing)
+[Colab Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/midrc/MIDRC_Cohort_Building_DLL_RSNA_2024.ipynb)
 
 ### 4. Harmonization of Data with LOINC Mapping (Kinahan) | DLL09F
