@@ -1,6 +1,6 @@
 # MIDRC - Cohort Building, Downloading, and Using Data for DL
 
-## Monday, December 1, 11:00am - 12:00pm
+## Monday, December 2, 11:00am - 12:00pm
 
 ## Overall Learning Objectives: 
 - Learn about the [tools](https://www.midrc.org/tools-1) on midrc.org, including the [metric tree](https://www.midrc.org/performance-metrics-decision-tree) and the [bias awareness tool](https://www.midrc.org/bias-awareness-tool-1).
