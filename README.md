@@ -30,7 +30,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Mon 3:00-4:00pm | [NCI Imaging Data Commons: Curated data and Reproducible AI workflows](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/nih-idc) | [Notebook]() |
 | **Tuesday, 3 Dec 2024** |
 | Tues 9:00-10:00am | [Accessing freely available public datasets from The Cancer Imaging Archive (TCIA)](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/tcia) (_Beginner friendly_) | [Notebook]() |
-| Tues 11:00am-12:00pm | [ChatGPT: DICOM de-identification using ChatGPT](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/chatgpt) (_Beginner friendly_) | [Notebook]() |
+| Tues 11:00am-12:00pm | [ChatGPT: DICOM de-identification using ChatGPT](https://github.com/georgezero/rsna24-chatctp-dicom-deid-using-chatgpt-mllm) (_Beginner friendly_) | [Notebook](https://github.com/georgezero/rsna24-chatctp-dicom-deid-using-chatgpt-mllm) |
 | Tues 1:00-2:00pm | [MIDRC: Contributing data - diversity, annotations, and harmonization](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc) (_Beginner friendly_) | [Notebook]() |
 | Tues 3:00-4:00pm | [Deploy Your Own Model in Huggingface](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/deploy-hf) | [Notebook]() |
 | **Wednesday, 4 Dec 2024** |
