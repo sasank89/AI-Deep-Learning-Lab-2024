@@ -25,13 +25,13 @@ We recommend that you use a computer with a recent vintage processor running the
 | Sun 12:00-1:00pm | [DIY Deep Learning: Programming Setup for Beginners](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/diy-dl) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/diy-dl/RSNA24_DLL_DIY_DL_workbook.ipynb) |
 | **Monday, 2 Dec 2024** |
 | Mon 9:00-10:00am | [Basics of NLP in Radiology](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/nlp-basics) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/nlp-basics/DLL03_Basics_NLP_Radiology.ipynb) |
-| Mon 11:00am-12:00pm | [MIDRC - Cohort Building, Downloading, and Using Data for DL](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/midrc/MIDRC_Cohort_Building_DLL_RSNA_2024.ipynb) |
+| Mon 11:00am-12:00pm | [MIDRC - Cohort Building, Downloading, and Using Data for DL](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc-cohort) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/midrc-cohort/MIDRC_Cohort_Building_DLL_RSNA_2024.ipynb) |
 | Mon 1:00-2:00pm | [Data Extraction from Radiology Reports with LLMs](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/llms-data) (_Beginner friendly_) | [Notebook]() |
 | Mon 3:00-4:00pm | [NCI Imaging Data Commons: Curated data and Reproducible AI workflows](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/nih-idc) | [Notebook]() |
 | **Tuesday, 3 Dec 2024** |
 | Tues 9:00-10:00am | [Accessing freely available public datasets from The Cancer Imaging Archive (TCIA)](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/tcia) (_Beginner friendly_) | [Notebook]() |
 | Tues 11:00am-12:00pm | [ChatGPT: DICOM de-identification using ChatGPT](https://github.com/georgezero/rsna24-chatctp-dicom-deid-using-chatgpt-mllm) (_Beginner friendly_) | [Notebook](https://github.com/georgezero/rsna24-chatctp-dicom-deid-using-chatgpt-mllm) |
-| Tues 1:00-2:00pm | [MIDRC: Contributing data - diversity, annotations, and harmonization](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc) (_Beginner friendly_) | [Notebook]() |
+| Tues 1:00-2:00pm | [MIDRC: Contributing data - diversity, annotations, and harmonization](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc-contrib) (_Beginner friendly_) | _See session folder for links to session materials_ |
 | Tues 3:00-4:00pm | [Deploy Your Own Model in Huggingface](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/deploy-hf) | [Notebook]() |
 | **Wednesday, 4 Dec 2024** |
 | Wed 9:00-10:00am | [Building a Simple Chest X-Ray Classification Model with TensorFlow](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/cxr-tf) (_Beginner friendly_) | [Notebook]() |
