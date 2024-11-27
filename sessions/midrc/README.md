@@ -2,7 +2,8 @@
 ### Tues 1:00-2:00pm
 ## Overall Learning Objectives: 
 - Understand the genesis and development of the Medical Imaging and Data Resource Center (MIDRC).
-- Understand the tools and processes to contribute data. 3) Appreciate how an imaging based data commons that links to clinical metadata can accelerate machine learning research.
+- Understand the tools and processes to contribute data.
+- Appreciate how an imaging based data commons that links to clinical metadata can accelerate machine learning research.
 ## Course Description:
 The Medical Imaging Data and Resource Center (MIDRC) provides a model for collecting and publishing data to support research that can be applied across all areas of medical imaging. This session will give an overview of the structure of the MIDRC data commons and the data contribution process.
 ## Speakers
@@ -13,6 +14,11 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 - Robert Tomek, MSc
 - Paul E Kinahan, PhD
 ## Outline
+- Intro to Contributing Data and Annotations (Flanders) | DLL09B
+  - [Presentation](link)
+- Annotations ***Hands On!*** (Shih) | DLL09C
+- Diversity Calculator (Whitney & Tomek) | DLL09D & DLL09E
+- Harmonization of Data with LOINC Mapping (Kinahan) | DLL09F
 
 ### 1. Intro to Contributing Data and Annotations [Adam Flanders] | DLL09B
 
