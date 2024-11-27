@@ -22,7 +22,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Date / Time | Session Folder | Notebooks |
 | --- | --- | --- |
 | **Sunday, 1 Dec 2024** |
-| Sun 12:00-1:00pm | [DIY Deep Learning: Programming Setup for Beginners](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/diy-dl) (_Beginner friendly_) | [Notebook]() |
+| Sun 12:00-1:00pm | [DIY Deep Learning: Programming Setup for Beginners](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/diy-dl) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/diy-dl/RSNA24_DLL_DIY_DL_workbook.ipynb) |
 | **Monday, 2 Dec 2024** |
 | Mon 9:00-10:00am | [Basics of NLP in Radiology](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/nlp-basics) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/nlp-basics/DLL03_Basics_NLP_Radiology.ipynb) |
 | Mon 11:00am-12:00pm | [MIDRC - Cohort Building, Downloading, and Using Data for DL](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/midrc) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/blob/main/sessions/midrc/MIDRC_Cohort_Building_DLL_RSNA_2024.ipynb) |
