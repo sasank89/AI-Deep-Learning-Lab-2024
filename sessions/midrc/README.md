@@ -19,3 +19,22 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 - Annotations ***Hands On!*** (Shih) | DLL09C
 - Diversity Calculator (Whitney & Tomek) | DLL09D & DLL09E
 - Harmonization of Data with LOINC Mapping (Kinahan) | DLL09F
+
+### 1. Intro to Contributing Data and Annotations [Adam Flanders] | DLL09B
+
+[Presentation](link)
+
+### 2. Contributing Data and Annotations [George Shih] | DLL09C
+
+[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTbILDPt5iqzOKoLo1MnwQ8NmfOR-Ev4T0fKhHrHfvCyyZosEYL6d8a9XIoQpQkuVCvCueCZgAsscHn/pub)
+
+Hands-on: MIDRC Helper AI Playground
+
+[Hands-on Instructions](https://docs.google.com/presentation/d/e/2PACX-1vTqL-ZDxpva1YmW1C9y2l9ck7npEzWolwj8XckM_omyIek4uleCI_Gleo8WfCipjzGw2tvATm9Csi4A/pub)
+
+[Hands-on Link](https://ai.skp.one/midrc-helper-ai-playground)
+
+### 3. Diversity Calculator | DLL09D & DLL09E
+
+
+### 4. Harmonization of Data with LOINC Mapping | DLL09F
