@@ -17,7 +17,8 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 
 ### 1. Intro to Contributing Data and Annotations (Flanders) | DLL09B
 
-[Presentation](link)
+[Presentation](https://drive.google.com/file/d/1zhdNjp0i4VyScaS_TQPVR5n629EQmnyI/view)
+
 
 ### 2. Contributing Data and Annotations (Shih) | DLL09C
 
