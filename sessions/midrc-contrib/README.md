@@ -33,3 +33,20 @@ The Medical Imaging Data and Resource Center (MIDRC) provides a model for collec
 [Colab Notebook](https://colab.research.google.com/drive/1vRPfbD0MPj-U-kz3nZhCL3wcdFaUOjON?usp=sharing)
 
 ### 4. Harmonization of Data with LOINC Mapping (Kinahan) | DLL09F
+
+[Presentation](./Using_LOINC_codes_to_build_MIDRC_cohorts_KInahan.pdf)
+
+**MIDRC data explorer:**
+
+https://data.midrc.org/explorer
+
+**MIDRC-LOINC mapping table for study descriptions on Github:**
+
+https://github.com/MIDRC/midrc_dicom_harmonization/tree/main/out
+
+**Radlex Playbook / LOINC codes  (use “class:rad” in LOINC search)**
+
+https://loinc.org/search/?t=1&s=class%3Arad (requires login)
+
+
+
