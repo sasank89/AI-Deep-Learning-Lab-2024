@@ -14,7 +14,7 @@ Monday, December 2, 2024 3pm-4pm (US Central Time)
 
 ## Pre-course instructions
 
-This session will include a mix of presentation mechanisms, including slide presentations, live demonstrations of the IDC website and related software, and Python notebooks using [Google Colaboratory](https://colab.research.google.com/) (Google Colab).
+This session will include a mix of a slide presentation, live demonstrations of the IDC website and related software, and Python notebooks using [Google Colaboratory](https://colab.research.google.com/) (Google Colab).
 
 For the best educational experience, you must bring your own laptop computer, since the components that will be demonstrated are not optimized for tablet or smartphone devices. If you choose to experiment with the Python notebooks, you will also need a Google account (even if temporary) to access Colab.
 
@@ -39,14 +39,13 @@ You can learn more from our recent _RadioGraphics_ paper here:
 
 * [Presentation slides](https://tinyurl.com/idc-rsna24) (slides will be shared publicly following the tutorial)
 
-
 ### 2. Hands-on demonstration of the IDC Portal
 
 * IDC Portal: https://portal.imaging.datacommons.cancer.gov/explore/
 
 ### 3. Hands-on demonstration of the 3D Slicer IDC Browser extension
 
-* SlicerIDCBrowser extension: https://github.com/ImagingDataCommons/SlicerIDCBrowser
+*  [3D Slicer](https://slicer.org) SlicerIDCBrowser extension: https://github.com/ImagingDataCommons/SlicerIDCBrowser
 
 ### 4. Basics of interacting with IDC from Python
 
@@ -54,9 +53,9 @@ You can learn more from our recent _RadioGraphics_ paper here:
 
 ### Other relevant materials to explore on your own
 
+* Interested to learn more about IDC? Check out [IDC-Tutorials](https://github.com/ImagingDataCommons/IDC-Tutorials) github repository to find more notebooks covering different aspects of IDC functionality and include collection-specific demonstrations
+* [Getting started with IDC](https://learn.canceridc.dev/getting-started-with-idc) documentation section will give you an overview of various learning materials and capabilities available
 * [IDC User Forum](https://discourse.canceridc.dev) is the place to ask any questions related to IDC, get help from IDC developers, and meet other IDC users!
-* [Getting started with IDC](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/getting_started) tutorial series: unlike the notebook above, these notebooks rely on Google BigQuery; all of the prerequisites are free
-* [Advanced topics](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/advanced_topics) tutorials: here you can learn how to search and combine clinical data with imaging metadata
 * [Viewers deployment](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/viewers_deployment) tutorials: learn how to host your own instances of OHIF and Slim viewers and use them to visualize your own private data in Google Cloud
 * [IDC Zenodo community](https://zenodo.org/communities/nci-idc): direct submissions of data to IDC are deposited to Zenodo to archive, provide citation, and generate the DOI to provide visibility and credit to the submitters
 * [IDC publications](https://learn.canceridc.dev/publications): curated list of peer-reviewed manuscripts and preprints by the IDC team and external groups that utilized IDC in their research
