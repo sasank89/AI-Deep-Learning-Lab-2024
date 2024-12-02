@@ -28,5 +28,5 @@ The Medical Imaging Data and Resource Center (MIDRC) provides tools to help rese
 
 ### 3. MIDRC Stratified Sampling Tool (Fuhrman)
 
-[Presentation](link)
+The final part of the session will review the [MIDRC Generalized Stratified Sampling](https://github.com/MIDRC/Generalized_Stratified_Sampling).  If you would like to follow along with your own data example, please clone the repository and install the packages in the requirements file by following the initial instructions in the link.
 
