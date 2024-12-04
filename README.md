@@ -37,4 +37,4 @@ We recommend that you use a computer with a recent vintage processor running the
 | Wed 9:00-10:00am | [Building a Simple Chest X-Ray Classification Model with TensorFlow](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/cxr-tf) (_Beginner friendly_) | [Notebook]() |
 | Wed 11:00am-12:00pm | [Developing and Implementing a 3D segmentation model: from DICOM to deployment](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/3d-seg) | [Notebook]() |
 | Wed 1:00-2:00pm | [Quantifying Uncertainty in Deep Learning](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/uncertainty-quant) | [Notebook]() |
-| Wed 3:00-4:00pm | [Best Practices for Model Training: Architectures, Hyperparameters & Optimization](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/bp-training) | [Notebook]() |
+| Wed 3:00-4:00pm | [Best Practices for Model Training: Architectures, Hyperparameters & Optimization](https://github.com/RSNA/AI-Deep-Learning-Lab-2024/tree/main/sessions/bp-training) | [Notebook](https://colab.research.google.com/github/peterchang77/dl_tutor/blob/master/workshops/model-design/main.ipynb) |
